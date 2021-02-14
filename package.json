@@ -1,7 +1,7 @@
 {
   "name": "calorie-guide-api",
   "version": "1.0.0",
-  "description": "A food calorie guide API",
+  "description": "A nutrition guide API",
   "author": "Diego Lourenço",
   "private": true,
   "license": "MIT",
